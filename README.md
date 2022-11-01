@@ -26,3 +26,6 @@ For this lab I did not use .env
 
 #### Tests
 There is NO tests for this lab 
+
+#### Pull Requests
+- [PULL REQUEST LINK](https://github.com/amani51/web-scraper/pull/1)
